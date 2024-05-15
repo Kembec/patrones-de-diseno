@@ -1,0 +1,12 @@
+{
+	"editor.formatOnSave": true,
+
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"typescript.validate.enable": false,
+	"javascript.validate.enable": false
+}
